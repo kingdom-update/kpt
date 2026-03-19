@@ -1,7 +1,7 @@
 {
   "slug": "kingdom-people-tracker",
   "version": "1.4.2",
-  "download_url": "https://example.com/downloads/kingdom-people-tracker-1.4.2.zip",
+  "download_url": "https://github.com/kingdom-update/kpt/releases/download/1.4.2/kingdom-people-tracker-1.4.2.zip",
   "homepage": "https://kingdomwebservices.com/",
   "requires": "6.2",
   "tested": "6.8",
