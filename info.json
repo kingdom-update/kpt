@@ -1,7 +1,7 @@
 {
   "slug": "kingdom-people-tracker",
-  "version": "1.4.2",
-  "download_url": "https://github.com/kingdom-update/kpt/releases/download/1.4.2/kingdom-people-tracker-1.4.2.zip",
+  "version": "1.7.0",
+  "download_url": "https://github.com/kingdom-update/kpt/releases/download/1.7.0/kingdom-people-tracker-1.7.0.zip",
   "homepage": "https://kingdomwebservices.com/",
   "requires": "6.2",
   "tested": "6.8",
@@ -9,6 +9,6 @@
   "last_updated": "2026-03-20",
   "sections": {
     "description": "<p>Church people and household management plugin for WordPress.</p>",
-    "changelog": "<h4>1.4.2</h4><ul><li>Added self-hosted plugin updater.</li></ul>"
+    "changelog": "<h4>1.4.2</h4><ul><li>Added appearance theme selection - dark, light or custom </li></ul>"
   }
 }
